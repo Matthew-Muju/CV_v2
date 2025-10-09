@@ -1,6 +1,6 @@
-# 🚀 PERSONAL RESUME 
+# 🚀 Welcome to Z.ai Code Scaffold
 
-## Link : https://matthew-muju-cv.netlify.app/
+A modern, production-ready web application scaffold powered by cutting-edge technologies, designed to accelerate your development with [Z.ai](https://chat.z.ai)'s AI-powered coding assistance.
 
 ## ✨ Technology Stack
 

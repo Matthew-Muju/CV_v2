@@ -95,10 +95,10 @@ export default function Home() {
       type: "mobile"
     },
     {
-      title: "Android Attendance App",
-      description: "Mobile app for student attendance tracking, reducing errors and improving accuracy.",
-      tech: ["Java", "Android Studio", "Firebase"],
-      type: "mobile"
+      title: "Professional Portfolio Website",
+      description: "Modern, responsive portfolio website showcasing skills, projects, and professional experience. Features smooth animations, mobile-first design, and interactive user interface.",
+      tech: ["Next.js", "TypeScript", "Tailwind CSS", "shadcn/ui", "React"],
+      type: "web"
     }
   ]
 
@@ -329,7 +329,7 @@ export default function Home() {
                 <CardHeader>
                   <div className="flex items-center justify-between">
                     <CardTitle className="text-xl">{project.title}</CardTitle>
-                    <Badge variant={project.type === 'mobile' ? 'default' : 'secondary'}>
+                    <Badge variant={project.type === 'mobile' ? 'default' : project.type === 'web' ? 'secondary' : 'outline'}>
                       {project.type}
                     </Badge>
                   </div>
