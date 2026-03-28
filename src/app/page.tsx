@@ -67,7 +67,7 @@ export default function Home() {
     {
       title: "Casemix Staff",
       company: "Siloam Hospital Paal Dua, Manado",
-      period: "Jun 2025 – Present",
+      period: "Jun 2025 – Nov 2025",
       description: "Verified completeness of medical records (physical & digital). Organized documentation to maintain accurate patient folders. Collaborated with medical and admin teams for compliance.",
       type: "full-time"
     },
@@ -81,7 +81,7 @@ export default function Home() {
     {
       title: "Staff ALC",
       company: "PT Lotte Shopping Indonesia",
-      period: "Sep 2020 – May 2024",
+      period: "Sep 2023 – May 2024",
       description: "Led inventory and transaction verification, reducing discrepancies. Provided IT and network support for smooth operations. Streamlined data management processes for efficiency.",
       type: "full-time"
     }
